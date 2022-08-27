@@ -15,9 +15,6 @@ module.exports = {
         // },
         // 'glossary.html', // html can be passed.
     ], // `entry` can be `string` or `object` if there's only single markdown file.
-    output: [
-        20220827_chiyogasaki_guide'.pdf',
-    ],
     // toc: true, // whether generate and include toc.html or not (does not affect manifest.json), default to `true`. if `string` given, use it as a custom toc.html.
     // cover: './cover.png', // cover image. default to undefined.
     // workspaceDir: '.vivliostyle',
