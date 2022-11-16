@@ -78,7 +78,7 @@ PCとインターネットのコモディティ化は、ユーザ全員を「コ
 1. 全角数字を使う例（数字を強調する意図？）
     1. [猿島公園専門ガイド協会](https://sarushima-guide.jimdofree.com/%E5%90%84%E7%A8%AE%E5%95%8F%E5%90%88%E3%81%9B%E3%81%A8%E3%81%94%E8%B3%AA%E5%95%8F/)
 1. 全角コロンを使う例（情報の区切りを分かりやすくする意図？）
-    1. [東野篤子 Atsuko Higashino]（時刻表示の区切り）(https://twitter.com/AtsukoHigashino/status/1576713669752545280)
+    1. [東野篤子 Atsuko Higashino](https://twitter.com/AtsukoHigashino/status/1576713669752545280)（時刻表示の区切り）
     1. [有限会社  金文堂信濃屋書店](http://kinbundo.jp/publics/index/3/)（フッタ部分）
 1. 半角句読点を使う例（連続する全角句読点のアキ調整を意図）
     1. 見た記憶はあるが、今は例を見つけられず
