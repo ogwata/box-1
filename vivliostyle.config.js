@@ -3,7 +3,7 @@ module.exports = {
     author: '小形克宏', // default to `author` in `package.json` or undefined.
     language: 'ja',
     size: 'A4',
-    theme: '/theme.css', // .css or local dir or npm package. default to undefined.
+    theme: 'theme.css', // .css or local dir or npm package. default to undefined.
     // entryContext: './manuscripts', // default to '.' (relative to `vivliostyle.config.js`).
     entry: [
         "text/read-the-requirements.md",
