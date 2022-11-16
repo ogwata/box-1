@@ -6,7 +6,7 @@ module.exports = {
     theme: 'theme/theme.css', // .css or local dir or npm package. default to undefined.
     // entryContext: './manuscripts', // default to '.' (relative to `vivliostyle.config.js`).
     entry: [
-        "text/20220827_chiyogasaki_guide.md",
+        "text/read-the-requirements.md",
         // 'manuscript.md', // `title` is automatically guessed from the file (frontmatter > first heading).
         // {
         //   path: 'epigraph.md',
